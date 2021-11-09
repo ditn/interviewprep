@@ -1,0 +1,1 @@
+Slower to insert or delete than a [[Red-Black Tree]], but quicker to query, so more frequently used in high-read scenarios.
