@@ -33,7 +33,7 @@ For example, in the case of Twitter:
 	- Followers/Retweets
 
 ## Identify Technical Requirements
-- How many users to we expect?
+- How many users do we expect?
 - How big is the engineering team?
 
 ### Networking
